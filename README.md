@@ -6,7 +6,7 @@
 
 *	Developed a profitable football trading strategy which consistently beats closing line odds.
 
-** SEIR Modeling of the COVID-19 Pandemic in the United States ** - *Spring Term 2021*
+**SEIR Modeling of the COVID-19 Pandemic in the United States** - *Spring Term 2021*
 
 * Augmented the SEIR model by covid19-projections.com with vaccination data and projections to assess the impact of vaccinations.
 
