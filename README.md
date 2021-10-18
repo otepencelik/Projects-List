@@ -8,7 +8,7 @@
 
 **SEIR Modeling of the COVID-19 Pandemic in the United States** - *Spring Term 2021*
 
-* Augmented the SEIR model by (covid19-projections.com) with vaccination data and projections to assess the impact of vaccinations.
+* Augmented the SEIR model by [covid19-projections.com](covid19-projections.com) with vaccination data and projections to assess the impact of vaccinations.
 
 **Artwork Generation using GANs** - *Winter Term 2020*
 
