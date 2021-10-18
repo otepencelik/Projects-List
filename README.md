@@ -1,6 +1,6 @@
 # Projects
 
-Automated Trading <p align="right"> May 2021 – cont.</p>                         
+Automated Trading<p align="right"> May 2021 – cont.</p>                         
 
 *	Implementing trading strategies to automatically trade stock and crypto assets.
 
