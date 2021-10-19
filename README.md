@@ -46,5 +46,34 @@
 
 *	Developed a limited vocabulary speech and voice recognition application for Android devices. The application will be used by ASELSAN as a user interface for a receiver that the company developed.
 
+**Analyzing the Effects of Scanning Parameters on Magnetic Resonance Imaging** - *Spring Term 2019*
 
+* Conducted an analysis on several MRI scanning parameters and their effects on different types of tissues.
 
+**Magnetic Resonance Imaging Simulation Tool** - *Fall Term 2018*
+
+* Developed an MRI simulation tool which allows users to simulate various MRI settings and visualize outputs.
+
+**Neural Image Captioning** - *Fall Term 2018*
+
+* Implemented the RNN + CNN pipeline for the image captioning task without using any libraries.
+
+**Electromagnetic Levitation** - *Fall Term 2017*
+
+* Created an electromagnetic levitation tool using a coil.
+
+**FM Radio using 8051 Assembly Language** - *Spring Term 2017*
+
+* Developed an FM Radio using an 8051 microprocessors. 
+
+**Morse Code Transmitter using VHDL** - *Fall Term 2016*
+
+* Developed a morse code transmitter tool using VHDL on an FPGA board.
+
+**28 MHz Transceiver Board** - *Fall Term 2016*
+
+* Assembled a 28 MHz transceiver board from scratch.
+
+**University Campus Navigation Application on Android** - *Spring Term 2016*
+
+* Developed an Android application for a building on campus which navigates the users within the building to their rooms.
