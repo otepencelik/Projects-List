@@ -29,6 +29,7 @@
 **Edge Detection using U-Net** - *Spring Term 2020*
 
 *	Implemented a U-Net architecture for edge detection on images.
+*	https://github.com/otepencelik/UNet_edge_detection
 
 **Neural Image Captioning with a New Activation Function** - *Winter Term 2020*
 
