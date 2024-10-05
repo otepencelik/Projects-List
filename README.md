@@ -1,11 +1,10 @@
 # Publications
 
-[1] O. N. Tepencelik, W. Wei, L. Chukoskie, P. C. Cosman and S. Dey, ``Body and head orientation estimation with privacy preserving LiDAR sensors,'' \emph{2021 29th European Signal Processing Conference (EUSIPCO),} pp. 766-770, 2021, DOI: 10.23919/EUSIPCO54536.2021.9616111.
+[1] O. N. Tepencelik, W. Wei, L. Chukoskie, P. C. Cosman and S. Dey, ``Body and head orientation estimation with privacy preserving LiDAR sensors,'' *2021 29th European Signal Processing Conference (EUSIPCO),* pp. 766-770, 2021, DOI: [10.23919/EUSIPCO54536.2021.9616111](10.23919/EUSIPCO54536.2021.9616111).
 
-[2] O. N. Tepencelik, W. Wei, P. C. Cosman and S. Dey, ``Body and head orientation estimation from low-resolution point clouds in surveillance settings,'' \emph{IEEE Access,} 2024, DOI: 10.1109/ACCESS.2024.3469197.
+[2] O. N. Tepencelik, W. Wei, P. C. Cosman and S. Dey, ``Body and head orientation estimation from low-resolution point clouds in surveillance settings,'' *IEEE Access,* 2024, DOI: [10.1109/ACCESS.2024.3469197](10.1109/ACCESS.2024.3469197).
 
-[3] O. N. Tepencelik, W. Wei, M. Luo, P. Cosman, and S. Dey, ``Behavioral
-intervention for adults with autism on distribution of attention in triadic conversations: A/b-tested pre-post study,” \emph{JMIR Formative Research}, vol. 8, no. 1, e55339, 2024. DOI: 10.2196/55339
+[3] O. N. Tepencelik, W. Wei, M. Luo, P. Cosman, and S. Dey, ``Behavioral intervention for adults with autism on distribution of attention in triadic conversations: A/b-tested pre-post study,” *JMIR Formative Research*, vol. 8, no. 1, e55339, 2024. DOI: [10.2196/55339](10.2196/5533)
 
 # Projects
 
